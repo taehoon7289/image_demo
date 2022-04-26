@@ -58,47 +58,7 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/images/0ad2e56c-1eae-4048-9c48-18356ad4cea8.jpg
-    - assets/images/0b05dd64-d82f-4950-9e65-ccd23e6eaf98.jpg
-    - assets/images/0b604db8-bcbb-4aa0-90f5-ca9eaec3cd93.jpg
-    - assets/images/0c9ebec8-20bf-4b72-9042-00770308b7a2.jpg
-    - assets/images/0f8e3d9f-9112-4b57-86bf-a4622f96eeec.jpg
-    - assets/images/0fd6b786-22da-4ae3-b1f1-eb2b7b330a7e.jpg
-    - assets/images/1af6b6cc-4414-4281-8657-09b9b529ba50.png
-    - assets/images/1ed9175b-33cc-4287-8b07-f7f4d4480916.png
-    - assets/images/1f7a25a4-89a8-4660-8444-92de681066c3.jpg
-    - assets/images/1f399f1f-be5c-4760-9c11-923978bde7a6.jpg
-    - assets/images/1ff8bad5-6455-40f0-a7ac-2a3bbabeddae.jpg
-    - assets/images/2c9db412-5bf2-46bf-9dcd-0e1e104c80ff.jpg
-    - assets/images/2ce280df-a9b8-492a-823b-2510321de0e8.jpg
-    - assets/images/2dbde7c1-b8ba-4978-af1e-549acd528dc0.jpg
-    - assets/images/2f897c30-6270-453b-a324-1f8e8412a5ad.jpg
-    - assets/images/3a0da6a2-a3d2-4a5d-818f-a06371804902.jpg
-    - assets/images/3ab262a7-b6be-4064-aa90-1d57b3b5e4a6.jpg
-    - assets/images/3c81725f-c5e3-44e0-a318-83aaa0680670.jpg
-    - assets/images/3db151b4-ecb4-4b55-a8c3-dad16e4e9168.JPG
-    - assets/images/3f64e1fd-1e49-48c8-bebb-affe531686a7.jpg
-    - assets/images/4a1d590f-fb76-434a-83be-51a5a134697c.jpg
-    - assets/images/4a761189-9a1e-4115-8151-89743b223f2a.jpg
-    - assets/images/4af34185-7783-403b-bb58-1060a86f92cb.png
-    - assets/images/4b417c0e-ea4b-4d04-8fc8-76a5b2df89ed.jpg
-    - assets/images/4d1be15b-e5c5-457a-ba19-a56daa5a1081.jpg
-    - assets/images/4e9b51bc-4353-4d90-964c-1aa1b1cb3ce4.jpg
-    - assets/images/4f03e93c-2d2d-4edc-966c-988243ffccbd.jpg
-    - assets/images/5a93a296-9cc1-45cf-b0d5-e7dd743c43d6.jpg
-    - assets/images/5c468407-ffa6-4342-a1f2-ecfd0559dc90.jpg
-    - assets/images/5cd00607-17dd-44ef-be20-0aa075398785.jpg
-    - assets/images/5cf9ea36-a484-4a3f-be6d-1a18b1696e47.jpg
-    - assets/images/5dfd4ba6-834c-4e1f-974d-1924e7cc0544.jpg
-    - assets/images/5e75e6f5-20de-4400-bc63-ec8fa8ac675e.jpg
-    - assets/images/5f6aec5b-98df-48e3-8bb5-d2496df9155b.jpg
-    - assets/images/5ff49b9c-8ff2-43c1-83f3-f5466bb4308c.jpg
-    - assets/images/6a5fadf6-953b-4124-b29f-55faa49292b1.jpg
-    - assets/images/6a60e1a2-71dc-4dd9-b731-d78c5382b443.jpg
-    - assets/images/6a60e1a2-71dc-4dd9-b731-d78c5382b443.jpg
-    - assets/images/6a707b43-7970-45f8-b80c-6675c606d422.jpg
-    - assets/images/6a951e76-0508-4b2c-a29d-ab61655dca34.jpg
+#  assets:
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
